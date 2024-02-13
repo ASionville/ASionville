@@ -39,4 +39,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asionville&show_icons=true&locale=en&layout=compact" alt="asionville" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asionville&show_icons=true&theme=dark&locale=en" alt="asionville" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asionville&show_icons=true&theme=monokai&locale=en&no-frame=true&no-bg=true" alt="asionville" /></p>
