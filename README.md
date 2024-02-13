@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aubin</h1>
 <h3 align="center">A passionate Self-taught programmer with a passion for physics simulations. Engineering student by day, code artist by night. 🚀</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asionville" alt="asionville" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asionville&show_icons=true&theme=monokai&no-frame=true&no-bg=true" alt="asionville" /></a> </p>
 
 <p align="center">🌱 I’m currently learning about <b>Physics-Informed Neural Networks</b></p>
 
@@ -39,4 +39,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asionville&show_icons=true&locale=en&layout=compact" alt="asionville" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asionville&show_icons=true&theme=monokai&locale=en&no-frame=true&no-bg=true" alt="asionville" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asionville&locale=en" alt="asionville" /></p>
